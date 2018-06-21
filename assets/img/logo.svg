@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg class="logosvg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EE2B45;}
+</style>
+<g>
+	<path class="st0" d="M0,100V80c50,0,50-40,100-40v20C50,60,50,100,0,100z"/>
+	<path class="st0" d="M0,60V40C50,40,50,0,100,0v20C50,20,50,60,0,60z"/>
+	<path class="st0" d="M0,20c25,0,37.5-10,50-20H0V20z"/>
+	<path class="st0" d="M50,100h50V80C75,80,62.5,90,50,100z"/>
+</g>
+</svg>
